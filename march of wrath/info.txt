@@ -1,16 +1,20 @@
 [ID:march_of_wrath]
-[NUMERIC_VERSION:125]
-[DISPLAYED_VERSION:0.12.5]
-[EARLIEST_COMPATIBLE_NUMERIC_VERSION:124]
-[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.12.4]
+[NUMERIC_VERSION:120]
+[DISPLAYED_VERSION:0.20.0]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:200]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.20.0]
 [AUTHOR:Bourbon]
 [NAME:Bourbon's March of Wrath]
-[DESCRIPTION:A total conversion of Dwarf Fortress for a more classical world.]
+[DESCRIPTION:MUST BE LOADED AFTER VANILLA DESCRIPTORS AND BEFORE VANILLA ENVIROMENT. DO NOT LOAD VANILLA MATERIALS; REMOVE FROM LOAD ORDER WITH THE <- BUTTON.
+
+This was required to make changes to nerve healing rates and alcohol's lethality. This headache spares you some crippled veterans getting alcohol-poisoned on the floor of the tavern.]
+
+[CONFLICTS_WITH_ID:vanilla_materials]
 
 [STEAM_TITLE:Bourbon's March of Wrath]
 [STEAM_DESCRIPTION:Tired of vanilla DF, but not wanting to go too far down the rabbit hole of high fantasy? Want to play races other than dwarves, or wanting a new twist on dwarves as you know it? Want a more European fantasy feeling with less durian fruit or capybaras? Want your elves little less silly, and a bit more Silmarillion?
 ]
-[STEAM_CHANGELOG:Custom metals no longer re-indexing due to a duplicate SILVER entry. Value of silver increased to 15.]
+[STEAM_CHANGELOG:0.20 Version; save compatibility broken with prior versions. See in-game description for load order requirements.]
 [STEAM_TAG:mod]
 [STEAM_TAG:Total Conversion]
 [STEAM_TAG:Playable Races]
@@ -19,9 +23,5 @@
 [STEAM_TAG:Tweak]
 [STEAM_TAG:Item]
 [STEAM_TAG:Bourbon]
-[STEAM_TAG:Elf]
-[STEAM_TAG:Creature]
-[STEAM_TAG:Entity]
-[STEAM_TAG:Civ]
 
 [STEAM_FILE_ID:2901789546]
