@@ -13,48 +13,6 @@ Casting lead sling bullets, rather than forging them.
 	[FUEL]
 	[SKILL:SMELT]
 
-Reactions for training tools, to prevent them from being spawned on invaders and guards.
-
-[REACTION:MAKE_FIGHTER_TRAINING]
-	[NAME:make fighting baton]
-	[DESCRIPTION:Make a baton for practicing fighting.]
-	[BUILDING:CARPENTER:NONE]
-	[REAGENT:wood log:1:WOOD:NONE:NONE:NONE]
-	[PRODUCT:100:1:ITEM_WEAPON_FIGHTER_TRAINING:NONE:GET_MATERIAL_FROM_REAGENT]
-	[SKILL:CARPENTRY]
-	
-[REACTION:MAKE_CLIMBING_TRAINING]
-	[NAME:make climbing rope]
-	[DESCRIPTION:Make a rope for practicing climbing.]
-	[BUILDING:CLOTHES:NONE]
-	[REAGENT:woven fabric:1:CLOTH:NONE:NONE:NONE]
-	[PRODUCT:100:1:ITEM_WEAPON_CLIMBING_TRAINING:NONE:GET_MATERIAL_FROM_REAGENT]
-	[SKILL:CLOTHESMAKING]
-	
-[REACTION:MAKE_SWIMMING_TRAINING]
-	[NAME:make swimming float]
-	[DESCRIPTION:Make a float for practicing climbing.]
-	[BUILDING:LEATHER:NONE]
-	[REAGENT:wood log:1:WOOD:NONE:NONE:NONE]
-	[PRODUCT:100:1:ITEM_WEAPON_SWIMMING_TRAINING:NONE:GET_MATERIAL_FROM_REAGENT]
-	[SKILL:LEATHERWORK]
-	
-[REACTION:MAKE_DISCIPLINE_TRAINING]
-	[NAME:make drill baton]
-	[DESCRIPTION:Make a baton for drilling discipine.]
-	[BUILDING:CARPENTER:NONE]
-	[REAGENT:wood log:1:WOOD:NONE:NONE:NONE]
-	[PRODUCT:100:1:ITEM_WEAPON_DISCIPLINE_TRAINING:NONE:GET_MATERIAL_FROM_REAGENT]
-	[SKILL:CARPENTRY]
-	
-[REACTION:MAKE_TACTICS_TRAINING]
-	[NAME:make tactical manual]
-	[DESCRIPTION:Make a manual for learning tactics.]
-	[BUILDING:CRAFTSMAN:NONE]
-	[REAGENT:sheet:10000:SHEET:NONE:NONE:NONE]
-	[PRODUCT:100:1:ITEM_WEAPON_DISCIPLINE_TRAINING:NONE:GET_MATERIAL_FROM_REAGENT]
-	[SKILL:BOOKBINDING]
-	
 These reactions pulverize boulders of various layer stones into crushed material for sifting in a trommel. They require a millstone for mechanical power. If powered custom buildings are ever possible, I will switch this to a stamp mill made of anvil metals.
 
 [REACTION:GRIND_IGNEOUS_INTRUSIVE]
