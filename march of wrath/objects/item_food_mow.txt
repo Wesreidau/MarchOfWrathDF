@@ -3,7 +3,7 @@ item_food_mow
 [OBJECT:ITEM]
 
 [SELECT_ITEM:ITEM_FOOD_BISCUITS]
-[NAME:rations]
+[NAME:ration]
 [LEVEL:2]
 
 [SELECT_ITEM:ITEM_FOOD_STEW]
