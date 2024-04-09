@@ -1,4 +1,4 @@
-reaction_wip_mow
+lreaction_wip_mow
 
 [OBJECT:REACTION]
 
@@ -21,7 +21,7 @@ Bedframes and assembly into beds.
 	[SKILL:MASONRY]
 
 [REACTION:FORGE_BED_FRAME_METAL]
-	[NAME:forge bed bedframe]
+	[NAME:forge metal bedframe]
 	[DESCRIPTION:Forge a bare bedframe from metal.]
 	[BUILDING:METALSMITH:NONE]
 	[REAGENT:metal bars:300:BAR:NO_SUBTYPE:METAL:NONE]
