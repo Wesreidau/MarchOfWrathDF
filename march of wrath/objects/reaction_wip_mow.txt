@@ -1,4 +1,4 @@
-lreaction_wip_mow
+reaction_wip_mow
 
 [OBJECT:REACTION]
 
