@@ -1,4 +1,4 @@
-material_template_default
+material_template_default_mow
 
 [OBJECT:MATERIAL_TEMPLATE]
 
