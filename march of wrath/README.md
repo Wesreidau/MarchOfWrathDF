@@ -29,4 +29,7 @@ Provide adequate attribution is defined as;
 
 Thanks to the tireless DF wiki contributors hauling modding tokens up from the fathomless depths.
 
+Special thanks to Putnam for Put-nam-up with me in the Discord, as well as Rumrusher, Kraken, and Alex.
+Testing and feedback by Brassy. Your enjoyment of the alpha made me keep going.
+
 Lucky delving in the RAWs to you all.
