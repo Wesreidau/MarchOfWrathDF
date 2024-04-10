@@ -5,16 +5,12 @@
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.20.0]
 [AUTHOR:Bourbon]
 [NAME:Bourbon's March of Wrath]
-[DESCRIPTION:MUST BE LOADED AFTER VANILLA DESCRIPTORS AND BEFORE VANILLA ENVIROMENT. DO NOT LOAD VANILLA MATERIALS; REMOVE FROM LOAD ORDER WITH THE <- BUTTON.
-
-This was required to make changes to nerve healing rates and alcohol's lethality. This headache spares you some crippled veterans getting alcohol-poisoned on the floor of the tavern.]
-
-[CONFLICTS_WITH_ID:vanilla_materials]
+[DESCRIPTION:ired of vanilla DF, but not wanting to go too far down the rabbit hole of high fantasy? Want to play races other than dwarves, or wanting a new twist on dwarves as you know it? Want a more European fantasy feeling with less durian fruit or capybaras? Want your elves little less silly, and a bit more Silmarillion?]
 
 [STEAM_TITLE:Bourbon's March of Wrath]
 [STEAM_DESCRIPTION:Tired of vanilla DF, but not wanting to go too far down the rabbit hole of high fantasy? Want to play races other than dwarves, or wanting a new twist on dwarves as you know it? Want a more European fantasy feeling with less durian fruit or capybaras? Want your elves little less silly, and a bit more Silmarillion?
 ]
-[STEAM_CHANGELOG:0.20 Version; save compatibility broken with prior versions. See in-game description for load order requirements.]
+[STEAM_CHANGELOG:0.20 Version; save compatibility broken with prior versions.]
 [STEAM_TAG:mod]
 [STEAM_TAG:Total Conversion]
 [STEAM_TAG:Playable Races]
