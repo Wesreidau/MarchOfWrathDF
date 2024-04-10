@@ -770,7 +770,6 @@ material_template_default_mow
 	[IMPLIES_ANIMAL_KILL]
 	[ROTS]
 	[NERVOUS_TISSUE]
-	[HEALING_RATE:2000] Half the healing speed of bone so various sensory and motor nerve injuries recover.
 
 [MATERIAL_TEMPLATE:BRAIN_TEMPLATE]
 	[STATE_COLOR:ALL_SOLID:GRAY]
@@ -823,7 +822,6 @@ material_template_default_mow
 	[MEAT_NAME:prepared:brain:brain]
 	[EDIBLE_VERMIN]
 	[EDIBLE_COOKED]
-	[HEALING_RATE:6000] He'll get better, eventually...
 
 [MATERIAL_TEMPLATE:LUNG_TEMPLATE]
 	[STATE_COLOR:ALL_SOLID:MAUVE]
