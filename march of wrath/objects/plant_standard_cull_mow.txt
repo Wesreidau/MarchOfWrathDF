@@ -8,3 +8,14 @@ plant_standard_cull_mow
 [CUT_PLANT:MANGO]
 [CUT_PLANT:RUBBER]
 [CUT_PLANT:CACAO]
+
+Culling the most common fantasy surface plants. Plenty of real-world plants exist to replace them.
+
+[CUT_PLANT:ROOT_MUCK]
+[CUT_PLANT:TUBER_BLOATED]
+[CUT_PLANT:BERRIES_PRICKLE]
+[CUT_PLANT:GRASS_LONGLAND]
+[CUT_PLANT:WEED_RAT]
+[CUT_PLANT:BERRIES_FISHER]
+[CUT_PLANT:REED_ROPE]
+[CUT_PLANT:VINE_WHIP]
