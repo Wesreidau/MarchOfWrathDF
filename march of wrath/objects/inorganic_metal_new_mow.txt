@@ -108,7 +108,7 @@ inorganic_metal_new_mow
 	[MAX_EDGE:9500]
 	[STATE_COLOR:ALL_SOLID:BLACK]
 
-[INORGANIC:EISLER_STEEL]
+[INORGANIC:EISENSTAHL]
 	[USE_MATERIAL_TEMPLATE:METAL_TEMPLATE]
 	[STATE_NAME_ADJ:ALL_SOLID:eisenstahl] 'ironsteel', a pattern-weld or otherwise composited steel. Eisler claim to fame.
 	[STATE_NAME_ADJ:LIQUID:molten eisenstahl]
