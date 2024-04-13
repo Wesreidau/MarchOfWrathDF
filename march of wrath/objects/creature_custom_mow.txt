@@ -754,6 +754,7 @@ creature_custom_mow
 	[PREFSTRING:wool]
 	[LARGE_ROAMING]
 	[COMMON_DOMESTIC]
+	[BIOME:TUNDRA] to spawn naturally in tundra, and hopefully be the eisler force
 	[BENIGN][MEANDERER][PET]
 	[STANDARD_GRAZER]
 	[VISION_ARC:50:310]
