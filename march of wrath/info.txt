@@ -1,11 +1,11 @@
 [ID:march_of_wrath_beta]
-[NUMERIC_VERSION:6]
-[DISPLAYED_VERSION:0.20.6]
+[NUMERIC_VERSION:7]
+[DISPLAYED_VERSION:0.20.7]
 [EARLIEST_COMPATIBLE_NUMERIC_VERSION:1]
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.20.0]
 [AUTHOR:Bourbon]
 [NAME:Bourbon's March of Wrath Beta]
-[DESCRIPTION:Sheep tundra. Eisler force worship. Pitch and tar.]
+[DESCRIPTION:Eisler monotheism take two. Pitch reaction tweaked.]
 
 [STEAM_TITLE:Bourbon's March of Wrath]
 [STEAM_DESCRIPTION:Absolutely no hope of save compatibility or stability at any point, this is a working copy, back up your save if you try to play along. Zhan Khaz and Zuim Khaz are likely the most playable.
