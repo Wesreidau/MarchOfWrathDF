@@ -162,9 +162,9 @@ Silversteel for elves. Nickle-iron alloy like maraging steel or meteoric iron.
 	[REAGENT:B:1:BOULDER:NO_SUBTYPE:NONE:NONE][REACTION_CLASS:FLUX]
 	[PRODUCT:100:1:BAR:NO_SUBTYPE:METAL:STEEL][PRODUCT_DIMENSION:150]
 	[FUEL]
-	[SKILL:FORGE_FURNITURE]
+	[SKILL:FORGE_FURNITURE]	requires repeated welding
 
-[REACTION:EISENSTAHL_MAKING]
+[REACTION:EISENSTAHL_MAKING]	'Toledo' steel of softer iron sandwiched between harder steels
 	[NAME:make eisenstahl bars]
 	[BUILDING:METALSMITH:NONE]
 	[REAGENT:A:300:BAR:NO_SUBTYPE:METAL:IRON]
@@ -174,7 +174,7 @@ Silversteel for elves. Nickle-iron alloy like maraging steel or meteoric iron.
 	[PRODUCT:100:2:BAR:NO_SUBTYPE:METAL:EISENSTAHL][PRODUCT_DIMENSION:150]
 	[PRODUCT:100:1:BOULDER:NO_SUBTYPE:METAL:SMOKE]
 	[FUEL]
-	[SKILL:SMELT]
+	[SKILL:FORGE_FURNITURE]	requires repeated welding
 
 [REACTION:SILVERSTEEL_MAKING]
 	[NAME:make silversteel bars]
