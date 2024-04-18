@@ -1,4 +1,4 @@
-graphics_creatures_portrait_elf
+graphics_creatures_portrait_elf_mow
 
 [OBJECT:GRAPHICS]
 
