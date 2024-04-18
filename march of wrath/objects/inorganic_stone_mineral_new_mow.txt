@@ -2,6 +2,13 @@ inorganic_stone_mineral_new_mow
 
 [OBJECT:INORGANIC]
 
+adamantine weight to match platinum
+
+[SELECT_INORGANIC:RAW_ADAMANTINE]
+	[MOLAR_MASS:195084] 
+
+ore processing tags
+
 [SELECT_INORGANIC:SANDSTONE]
 	[REACTION_CLASS:SEDIMENTARY_ROCK]
 
@@ -52,6 +59,8 @@ inorganic_stone_mineral_new_mow
 	
 [SELECT_INORGANIC:DACITE]
 	[REACTION_CLASS:EXTRUSIVE_ROCK]
+
+ore processing
 
 [INORGANIC:INTRUSIVE_GRAVEL]
 	[USE_MATERIAL_TEMPLATE:STONE_TEMPLATE]
