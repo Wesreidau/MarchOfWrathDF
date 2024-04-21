@@ -618,6 +618,7 @@ creature_humans_mow
 	[CASTE:DOMINA]	half-elven tyrians
 		[FEMALE]
 		[CASTE_NAME:domina:dominae:tyrian]
+		[CREATURE_CLASS:HALFELF]
 		[DESCRIPTION:A tyrian who by chance manifests their people's ill-won elven blood.]
 		[MAXAGE:300:500] half-elven
 		[POP_RATIO:1]
@@ -653,6 +654,7 @@ creature_humans_mow
 	[CASTE:DOMINUS]	half-elven tyrians
 		[MALE]
 		[CASTE_NAME:dominus:domini:tyrian]
+		[CREATURE_CLASS:HALFELF]
 		[DESCRIPTION:A tyrian who by chance manifests their people's ill-won elven blood.]
 		[MAXAGE:300:500]
 		[POP_RATIO:1]
