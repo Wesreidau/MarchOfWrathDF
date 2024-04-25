@@ -64,7 +64,12 @@ creature_dwarves_mow
 
 	This makes the creature susceptible to severed nerves when muscles are torn in limb, grasp and stance parts.
 
-	[HAS_NERVES]
+	Cut has_nerves, will add them back when a syndrome to heal them is introduced.
+
+	[SELECT_TISSUE:NERVE]
+		[HEALING_RATE:2000]
+	[SELECT_TISSUE:BRAIN]
+		[HEALING_RATE:2000]
 
 	This controls the bleeding behavior.
 
@@ -567,7 +572,10 @@ creature_dwarves_mow
 
 	This makes the creature susceptible to severed nerves when muscles are torn in limb, grasp and stance parts.
 
-	[HAS_NERVES]
+	[SELECT_TISSUE:NERVE]
+		[HEALING_RATE:2000]
+	[SELECT_TISSUE:BRAIN]
+		[HEALING_RATE:2000]
 
 	This controls the bleeding behavior.
 
