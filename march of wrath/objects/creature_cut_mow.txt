@@ -8,6 +8,14 @@ Animal-men and giant versions are culled with their base creature. Animal-men an
 
 [OBJECT:CREATURE]
 
+Misc
+
+[CUT_CREATURE:LOUSE_MAN]
+[CUT_CREATURE:HONEY_BADGER]
+[CUT_CREATURE:HONEY_BADGER_MAN]
+[CUT_CREATURE:ARMADILLO_MAN]
+[CUT_CREATURE:ARMADILLO]
+
 Birds
 
 [CUT_CREATURE:BIRD_BLUEJAY]
