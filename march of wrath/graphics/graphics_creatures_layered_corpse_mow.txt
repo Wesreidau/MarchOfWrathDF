@@ -2,7 +2,7 @@ graphics_creatures_layered_corpse_mow
 
 [OBJECT:GRAPHICS]
 
-[CREATURE_GRAPHICS:DWARF]
+[CREATURE_GRAPHICS:GREYDWARF]
 	[LAYER_SET:CORPSE]
 
 	right shoulder
