@@ -6659,7 +6659,7 @@ graphics_creatures_layered_corpse_mow
 		[LAYER:LEFT_HAND_M:ELF_BODY_CORPSE:1:6]
 			[CONDITION_CASTE:MALE]
 
-[CREATURE_GRAPHICS:ELF]
+[CREATURE_GRAPHICS:DUSKELF]
 	[LAYER_SET:CORPSE]
 
 	right shoulder
