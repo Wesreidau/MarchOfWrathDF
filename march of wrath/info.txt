@@ -1,6 +1,6 @@
 [ID:march_of_wrath]
-[NUMERIC_VERSION:2100]
-[DISPLAYED_VERSION:0.21.0]
+[NUMERIC_VERSION:2102]
+[DISPLAYED_VERSION:0.21.2]
 [EARLIEST_COMPATIBLE_NUMERIC_VERSION:200]
 [EARLIEST_COMPATIBLE_DISPLAYED_VERSION:0.20.0]
 [AUTHOR:Bourbon]
@@ -9,7 +9,7 @@
 
 [STEAM_TITLE:Bourbon's March of Wrath]
 
-[STEAM_CHANGELOG:Tyrian positions re-written. Nervous tissue removed from playable races. Merchant companies for select races.]
+[STEAM_CHANGELOG:Compatibility for DF Official 50.14 (baby patch).]
 [STEAM_TAG:mod]
 [STEAM_TAG:Total Conversion]
 [STEAM_TAG:Playable Races]
